@@ -1,0 +1,8 @@
+
+a= ('red', 'blue', 'green', 'yellow')
+b= 'blue'
+
+if b in a:
+    print("That is correct")
+else:
+    print("That is incorrect")
